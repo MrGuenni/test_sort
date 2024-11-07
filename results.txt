@@ -1,0 +1,6 @@
+
+Computer Name: Steininger_03
+Date of Test: 2024-11-07 13:38:25
+Bubble Sort Time: 5.544755 seconds
+Quick Sort Time: 0.023818 seconds
+
